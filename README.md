@@ -19,3 +19,9 @@ Refer to the _h_ command in order to get help.
  - Joints values are published on a socket on port 5678, for one active connection. No more connections are supported for the moment (at least not for publishing the joint values). 
  - This values can be read by a simulator, allowing remote visualization of the robot state.
  - The socket console is intended to be used with hrp-web-server.
+
+## See also
+
+- [virtual-hrp-robot](https://github.com/andresmanelli/virtual-hrp-robot)
+- [hrp-joy-driver](https://github.com/andresmanelli/hrp-joy-driver)
+- [hrp](https://github.com/andresmanelli/hrp)
